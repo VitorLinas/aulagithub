@@ -11,7 +11,7 @@ namespace CadastroBancario
     internal class ContaBancaria
     {
 
-        // PROPRIEDADES:
+        // PROPRIEDADES:d
 
         public int Numero { get; private set; }
         public string Titular { get; set; }

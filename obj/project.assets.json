@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\CODING\\C# .NET\\C# .NET.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\CODING\\C# .NET\\aulagithub\\C# .NET.csproj",
       "projectName": "C# .NET",
-      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\CODING\\C# .NET\\C# .NET.csproj",
+      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\CODING\\C# .NET\\aulagithub\\C# .NET.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\CODING\\C# .NET\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\CODING\\C# .NET\\aulagithub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
